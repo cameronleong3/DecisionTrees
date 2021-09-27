@@ -1,3 +1,3 @@
-The program ID3_final.py creates an ID3 decision tree based on the train.csv dataset, and tests it on the test.csv dataset.
+The program ID3.py creates an ID3 decision tree based on the train.csv dataset, and tests it on the test.csv dataset.
 The program random_forests.py uses the random forests method to create several decision trees and aggregate the results, minimizing error and bias.
 The train.csv and test.csv datasets are subsets of the titanic dataset, and heart.csv is a separate dataset.
